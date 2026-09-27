@@ -1,21 +1,33 @@
-### 
+# Olá, eu sou o Maicon! 👋
 
-<!--
-**maiconpdl/maiconpdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Tecnologia da Informação (na reta final do curso!) e um desenvolvedor em constante evolução. Sou apaixonado por resolver problemas através de código e estou sempre buscando transformar o conhecimento acadêmico em soluções práticas. 
 
-Here are some ideas to get you started:
+Embora ainda esteja construindo minha experiência profissional, sou muito dedicado a criar uma base técnica forte, com bastante foco no desenvolvimento back-end e na estruturação eficiente de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div>
-  <a href="https://github.com/maiconpdl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiconpdl&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconpdl&layout=compact&langs_count=8&theme=merko"/>
+### 💻 Sobre mim
+- 🎓 Concluindo o curso superior na área de Tecnologia da Informação.
+- 🌱 Aprofundando meus estudos e práticas em **Java, Spring Boot e bancos de dados relacionais (PostgreSQL/MySQL)**.
+- 🚀 Desenvolvendo projetos próprios para ganhar vivência prática, desde ferramentas utilitárias até sistemas de relatórios com integração de banco de dados (como painéis do e-SUS com views materializadas).
+- 💡 Gosto de explorar automações e aprender como as coisas funcionam por baixo dos panos.
+
+### 🛠️ Tecnologias e Ferramentas que mais utilizo
+- **Back-end:** Java (57.2% do meu código), Spring Boot, Maven, C#.
+- **Front-end:** HTML (42.8% do meu código), CSS.
+- **Banco de Dados:** PostgreSQL, MySQL.
+
+### 📂 Alguns dos meus Projetos
+- **[Sistema-relatorios](https://github.com/maiconpdl/Sistema-relatorios):** Aplicação em Java com foco no processamento e estruturação de indicadores.
+- **[Sistema-PDF](https://github.com/maiconpdl/Sistema-PDF):** Ferramenta para manipulação de arquivos PDF, desenvolvida com C#.
+- **[ProjetoCampeonato](https://github.com/maiconpdl/ProjetoCampeonato):** Sistema construído em Java para gestão de informações esportivas.
+- **Utilitários Front-end:** Projetos como o **[geradorDeSenhas](https://github.com/maiconpdl/geradorDeSenhas)** (CSS) e testes de interface no repositório **[Despertador](https://github.com/maiconpdl/Despertador)** (HTML).
+
+### 📊 Minhas Estatísticas
+*(Dica: as imagens abaixo são geradas automaticamente baseadas no seu perfil)*
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiconpdl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconpdl&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+---
+*Sinta-se à vontade para explorar meus repositórios. Como estou em fase de aprendizado, dicas, revisões e feedbacks são sempre muito bem-vindos!*
