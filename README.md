@@ -1,18 +1,18 @@
 # Olá, eu sou o Maicon! 👋
 
-Sou estudante de Tecnologia da Informação (na reta final do curso!) e um desenvolvedor em constante evolução. Sou apaixonado por resolver problemas através de código e estou sempre buscando transformar o conhecimento acadêmico em soluções práticas. 
+Sou estudante de Tecnologia da Informação (na reta final do curso!) e um desenvolvedor em constante evolução. Gosto de resolver problemas através de código e estou sempre buscando transformar o conhecimento acadêmico em soluções práticas. 
 
 Embora ainda esteja construindo minha experiência profissional, sou muito dedicado a criar uma base técnica forte, com bastante foco no desenvolvimento back-end e na estruturação eficiente de dados.
 
 ### 💻 Sobre mim
 - 🎓 Concluindo o curso superior na área de Tecnologia da Informação.
 - 🌱 Aprofundando meus estudos e práticas em **Java, Spring Boot e bancos de dados relacionais (PostgreSQL/MySQL)**.
-- 🚀 Desenvolvendo projetos próprios para ganhar vivência prática, desde ferramentas utilitárias até sistemas de relatórios com integração de banco de dados (como painéis do e-SUS com views materializadas).
+- 🚀 Desenvolvendo projetos próprios para ganhar vivência prática, desde ferramentas utilitárias até sistemas de relatórios com integração de banco de dados.
 - 💡 Gosto de explorar automações e aprender como as coisas funcionam por baixo dos panos.
 
 ### 🛠️ Tecnologias e Ferramentas que mais utilizo
-- **Back-end:** Java (57.2% do meu código), Spring Boot, Maven, C#.
-- **Front-end:** HTML (42.8% do meu código), CSS.
+- **Back-end:** Java, Spring Boot, Maven, C#.
+- **Front-end:** HTML, CSS, JS.
 - **Banco de Dados:** PostgreSQL, MySQL.
 
 ### 📂 Alguns dos meus Projetos
@@ -25,8 +25,8 @@ Embora ainda esteja construindo minha experiência profissional, sou muito dedic
 *(Dica: as imagens abaixo são geradas automaticamente baseadas no seu perfil)*
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiconpdl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconpdl&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiconpdl&theme=dracula" alt="Detalhes do Perfil" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maiconpdl&theme=dracula" alt="Linguagens" />
 </div>
 
 ---
